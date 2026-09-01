@@ -4,7 +4,7 @@ published: true
 publishedAt: Sun Apr 26 2026 16:00:00 GMT+0300 (Eastern European Summer Time)
 description: Șansa ta de a pune întrebări directe și de a afla cum se văd lucrurile prin ochii unor oameni care și-au construit cariere impresionante.
 ---
-![Afiș](/assets/announcements/bibliotecavie1_2026/banner.svg)
+![Afiș](/blog/bibliotecavie1_2026/banner.svg)
 
 # Prezentare
 Te-ai întrebat vreodată cum ar fi să poți „răsfoi” experiența unui om de succes la fel cum faci cu o carte? Joi, 30 aprilie, transformăm sediul MiniTechnicus într-un spațiu unde poveștile prind viață! 🚀

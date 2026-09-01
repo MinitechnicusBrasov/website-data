@@ -19,7 +19,7 @@ description: Deschiderea Minitechnicus
 | 17-19 | Activități Sală |
 
 
-![Banner Deschidere](/assets/announcements/deschidere/banner_deschidere.jpeg)
+![Banner Deschidere](/blog/deschidere/banner_deschidere.jpeg)
 
 🎉 Te invităm la Deschiderea Minitechnicus – evenimentul ideal pentru pasionații de tehnică și inovație!
 

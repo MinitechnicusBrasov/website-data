@@ -5,7 +5,7 @@ publishedAt: Fri May 1 2026 16:00:00 GMT+0300 (Eastern European Summer Time)
 description: Dăm startul înscrierilor la cursurile de vară MiniTechnicus!
 ---
 
-![Afiș](/assets/announcements/cursuri_vara_2026/afis.png)
+![Afiș](/blog/cursuri_vara_2026/afis.png)
 
 # Descriere
 Vara aceasta, hai și tu sa-ți descoperi un nou hobby! La MiniTechnicus, deschidem oficial porțile înscrierilor pentru cursurile de vară, un program conceput special pentru a-ți transforma curiozitatea în abilități tehnice concrete.
