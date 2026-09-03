@@ -1,0 +1,35 @@
+- id: "robotica"
+  public: true
+  title: "Robotică și Automatizări"
+  description: "Învață să programezi brațele robotice Dobot, să folosești senzori, camere AI, benzi transportoare și printarea 3D."
+  thumbnail: "/cursuri/robotica/thumbnail.jpg"
+  file: "/cursuri/robotica.md"
+  deadline: 2026-10-01T00:00:00+02:00
+  start: 2026-10-05T00:00:00+02:00
+  end: 2027-06-01T00:00:00+03:00
+  min_grade: "V" 
+  max_grade: "XII" 
+
+- id: "electro"
+  public: true
+  title: "Electronică și IoT"
+  description: "Descoperă lumea fascinantă a electronicii, de la începuturi până la dispozitive inteligente conectate la internet."
+  thumbnail: "/cursuri/electro/thumbnail.jpg"
+  file: "/cursuri/electro.md"
+  deadline: 2026-10-01T00:00:00+02:00
+  start: 2026-10-05T00:00:00+02:00
+  end: 2027-06-01T00:00:00+03:00
+  min_grade: "V" 
+  max_grade: "XII" 
+
+- id: "cad"
+  public: true
+  title: "CAD și Printare 3D"
+  description: "Învață să proiectezi ornamente, jucării și ansamble mecanice pe calculator, iar apoi să le aduci la realitate folosind printarea 3D."
+  thumbnail: "/cursuri/cad/thumbnail.png"
+  file: "/cursuri/cad.md"
+  deadline: 2026-10-01T00:00:00+02:00
+  start: 2026-10-05T00:00:00+02:00
+  end: 2027-06-01T00:00:00+03:00
+  min_grade: "V" 
+  max_grade: "XII" 
