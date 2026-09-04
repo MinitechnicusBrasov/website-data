@@ -1,3 +1,7 @@
+---
+link: https://forms.gle/AuD6Z59eeNCgjrrB7
+---
+
 # Transformă-ți Pasiunea în Impact: Devino Voluntar la MiniTechnicus! 🚀
 
 ![Voluntari](/voluntariat/media/volunteers.jpg)
