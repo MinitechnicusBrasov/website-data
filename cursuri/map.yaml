@@ -8,7 +8,8 @@
   start: 2026-10-05T00:00:00+02:00
   end: 2027-06-01T00:00:00+03:00
   min_grade: "V" 
-  max_grade: "XII" 
+  max_grade: "XII"
+  sign_up_link: https://forms.gle/9MidZVkwAeNkScsAA
 
 - id: "electro"
   public: true
@@ -20,7 +21,8 @@
   start: 2026-10-05T00:00:00+02:00
   end: 2027-06-01T00:00:00+03:00
   min_grade: "V" 
-  max_grade: "XII" 
+  max_grade: "XII"
+  sign_up_link: https://forms.gle/9MidZVkwAeNkScsAA
 
 - id: "cad"
   public: true
@@ -32,4 +34,5 @@
   start: 2026-10-05T00:00:00+02:00
   end: 2027-06-01T00:00:00+03:00
   min_grade: "V" 
-  max_grade: "XII" 
+  max_grade: "XII"
+  sign_up_link: https://forms.gle/9MidZVkwAeNkScsAA
