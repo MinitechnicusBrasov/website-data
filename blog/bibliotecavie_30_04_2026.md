@@ -6,6 +6,8 @@ description: Șansa ta de a pune întrebări directe și de a afla cum se văd l
 ---
 ![Afiș](/blog/bibliotecavie1_2026/banner.svg)
 
+# TEST TEST TEST TEST
+
 # Prezentare
 Te-ai întrebat vreodată cum ar fi să poți „răsfoi” experiența unui om de succes la fel cum faci cu o carte? Joi, 30 aprilie, transformăm sediul MiniTechnicus într-un spațiu unde poveștile prind viață! 🚀
 
